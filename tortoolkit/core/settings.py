@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 # (c) YashDK [yash-dk@github]
-# (c) modified by AmirulAndalib [amirulandalib@github]
-
 import asyncio as aio
 import configparser
 import logging
@@ -30,7 +28,7 @@ no = "❌"
 yes = "✅"
 # Central object is not used its Acknowledged
 tordb = TorToolkitDB()
-header = '<b>FreakTorToolkitX by <a href="https://github.com/BlackBox-cmd/FreakTorToolkitX">KangersHub</a></b>\n<u>ADMIN SETTINGS MENU - Beta v1</u>'
+header = '<b>FreakTorToolkitX by <a href="https://github.com/BlackBox-cmd/FreakTorToolkitX">@FreakCloud</a></b>\n<u>ADMIN SETTINGS MENU - Beta v1</u>'
 
 
 async def handle_setting_callback(e):
