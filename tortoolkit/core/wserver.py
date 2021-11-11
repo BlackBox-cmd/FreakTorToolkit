@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # (c) YashDK [yash-dk@github]
-# (c) modified by AmirulAndalib [amirulandalib@github]
 
 import asyncio
 
@@ -27,7 +26,7 @@ page = """
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Torrent File Selector</title>
-    <link rel="icon" href="https://telegra.ph/file/69e1118355aac6913ab1b.jpg" type="image/jpg">
+    <link rel="icon" href="https://telegra.ph/file/a75f38843192f75209a94.jpg" type="image/jpg">
     <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
       integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
@@ -200,16 +199,16 @@ input[type="submit"]:hover, input[type="submit"]:focus{
     <header>
       <div class="brand">
         <img
-          src="https://telegra.ph/file/69e1118355aac6913ab1b.jpg"
+          src="https://telegra.ph/file/a75f38843192f75209a94.jpg"
           alt="logo"
         />
-        <a href="https://t.me/KangersHub"> 
-          <h2 class="name">TorToolkitX</h2>
+        <a href="https://t.me/FreakCloud"> 
+          <h2 class="name">FreakTorToolkitX</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://github.com/KangersHub/TortoolkitX"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/KangersHub"><i class="fab fa-telegram"></i></a>
+        <a href="https://github.com/BlackBox-cmd/FreakTorToolkitX"><i class="fab fa-github"></i></a>
+        <a href="https://t.me/FreakCloud"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
@@ -343,7 +342,7 @@ code_page = """
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Torrent Code Checker</title>
-    <link rel="icon" href="https://telegra.ph/file/69e1118355aac6913ab1b.jpg" type="image/jpg"> 
+    <link rel="icon" href="https://telegra.ph/file/a75f38843192f75209a94.jpg" type="image/jpg"> 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -539,16 +538,16 @@ section span{
     <header>
       <div class="brand">
         <img
-          src="https://telegra.ph/file/69e1118355aac6913ab1b.jpg"
+          src="https://telegra.ph/file/a75f38843192f75209a94.jpg"
           alt="logo"
         />
-        <a href="https://t.me/KangersHub">
-          <h2 class="name">TorToolkitX</h2>
+        <a href="https://t.me/FreakCloud">
+          <h2 class="name">FreakTorToolkitX</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://github.com/https://github.com/KangersHub/TorToolkitX"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/KangersHub"><i class="fab fa-telegram"></i></a>
+        <a href="https://github.com/BlackBox-cmd/FreakTorToolkitX"><i class="fab fa-github"></i></a>
+        <a href="https://t.me/FreakCloud"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
@@ -721,7 +720,7 @@ async def set_priority(request):
 @routes.get("/")
 async def homepage(request):
     return web.Response(
-        text='<h1>🤗TorToolkitX webserver is Up and Running successfully🟢</h1>\n<h2>⚡See TorToolkitX on <a href="https://github.com/KangersHub/TorToolkitX">@GitHub</a></h2>\n<h2>🥲Join KangersHub <a href="https://t.me/KangersHub">TG channel</a></h2>',
+        text='<h1>🤗TorToolkitX webserver is Up and Running successfully🟢</h1>\n<h2>⚡See TorToolkitX on <a href="https://github.com/BlackBox-cmd/FreakTorToolkitX">@GitHub</a></h2>\n<h2>🥲Join FreakCloud <a href="https://t.me/https://t.me/FreakCloud">TG channel</a></h2>',
         content_type="text/html",
     )
 
