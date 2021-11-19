@@ -2,9 +2,7 @@
 So basically Tortoolkit is aimed to be the most versatile torrent leecher and youtube-dl bot for telegram. This bot is highly customizable and to customize this bot you don't need to restart the bot every time. 
 The bot gets started with minimum variables and others can be set as and when needed using the /settings.
 
-## Use [Alpha](https://github.com/KangersHub/TorToolkitX/tree/alpha) branch if you want to try latest features.
-
-## For any help join this:- [KangersHub](https://t.me/KangersHubChat)
+## For any help join this:- [Freak Cloud](https://t.me/FreakCloud)
 
 ## Whats new
 - MegaDL added
@@ -260,7 +258,7 @@ Steps:-
 
 - `QBitTorrent Configurations`
   - To modify QBT engine Preferences ... Please check `qBittorrent.conf` in root of the repo..
-  - To modify Trackers for QBT ... Please check `start.sh` file in root of the repo.. or [click here](https://github.com/KangersHub/TorToolkitX/blob/master/start.sh#L2) to see.
+  - To modify Trackers for QBT ... Please check `start.sh` file in root of the repo.. or [click here](https://github.com/BlackBox-cmd/FreakTorToolkit/blob/master/start.sh) to see.
 
 - `Instagram Stuff`
   - `INSTA_UNAME` it is for instagram login put your instagram username.
